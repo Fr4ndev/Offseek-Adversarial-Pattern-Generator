@@ -61,7 +61,9 @@ pip install opencv-python numpy matplotlib pillow tqdm
 
 # Ejecutar el generador
 python hyperface_generator.py
+
 El patrón generado se guardará en hyperface_patterns/psychedelic_hyperface.jpg
+
 Estructura del Proyecto
 
 ```
