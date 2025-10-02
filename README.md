@@ -114,7 +114,6 @@ Aporten perspectivas legales o éticas
 
 ### Nota: La privacidad es un derecho fundamental. Este proyecto no promueve actividades ilegales, sino que busca restaurar el equilibrio de poder entre individuos y sistemas de vigilancia masiva mediante herramientas técnicas accesibles.
 
-
-Proyecto desarrollado como parte de la investigación en privacidad y seguridad biométrica.
+### Proyecto desarrollado como parte de la investigación en privacidad y seguridad biométrica.
 
 Para preguntas, sugerencias o colaboraciones, abre un issue en este repositorio.
