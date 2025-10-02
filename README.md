@@ -90,7 +90,6 @@ Contramedidas: Los sistemas pueden adaptarse mediante reentrenamiento adversaria
 Legalidad: El uso de estas técnicas puede estar regulado según jurisdicción
 
 ## Marco Ético y Legal
-Este proyecto se enmarca en la investigación de seguridad y privacidad. 
 
 Los usuarios deben:
 
