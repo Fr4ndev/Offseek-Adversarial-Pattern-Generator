@@ -82,28 +82,40 @@ offseek/
 ## Limitaciones Conocidas
 
 Efectividad variable: Los patrones funcionan mejor contra sistemas de detección facial clásicos (Haar Cascades, HOG) que contra redes neuronales profundas modernas
+
 Condiciones de uso: La eficacia depende de distancia, ángulo de captura, iluminación y resolución de la cámara
+
 Contramedidas: Los sistemas pueden adaptarse mediante reentrenamiento adversarial
+
 Legalidad: El uso de estas técnicas puede estar regulado según jurisdicción
 
 ## Marco Ético y Legal
-Este proyecto se enmarca en la investigación de seguridad y privacidad. Los usuarios deben:
+Este proyecto se enmarca en la investigación de seguridad y privacidad. 
+
+Los usuarios deben:
 
 Verificar la legalidad en su jurisdicción antes de aplicar estos patrones en público
+
 Considerar que el uso de contramedidas puede llamar más atención que la vigilancia pasiva
+
 Entender que la privacidad efectiva requiere cambios sistémicos, no solo soluciones técnicas individuales
 
 ## Próximos Pasos
 
  Evaluación cuantitativa contra sistemas comerciales (Face++, Azure Face API, AWS Rekognition)
+ 
  Optimización para impresión en textiles manteniendo propiedades adversariales
+ 
  Análisis de resistencia a diferentes distancias y ángulos de captura
+ 
  Exploración de patrones dinámicos (mediante LEDs o e-textiles)
 
 ## Referencias Técnicas
 
 Sharif et al. (2016) - "Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition"
+
 Wu et al. (2020) - "Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors"
+
 Komkov & Petiushko (2021) - "AdvHat: Real-world adversarial attack on ArcFace Face ID system"
 
 ## Contribuciones
