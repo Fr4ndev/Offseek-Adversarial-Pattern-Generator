@@ -51,7 +51,7 @@ Aplica transformaciones para aumentar la complejidad visual:
 - **Distorsión sinusoidal**: Desplazamiento espacial basado en funciones trigonométricas
 - **Saturación de color**: Incremento del 50% en canal HSV
 
-  [![Ejemplo de patrón](main/psychedelic_hyperface.jpg)](main/psychedelic_hyperface.jpg)
+  [![Ejemplo de patrón](/psychedelic_hyperface.jpg)](/psychedelic_hyperface.jpg)
 
 
 ## Requisitos
