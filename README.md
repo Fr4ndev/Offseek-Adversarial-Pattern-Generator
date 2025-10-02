@@ -64,6 +64,7 @@ python hyperface_generator.py
 El patrón generado se guardará en hyperface_patterns/psychedelic_hyperface.jpg
 Estructura del Proyecto
 
+```
 offseek/
 ├── hyperface_generator.py      # Script principal
 ├── requirements.txt            # Dependencias
@@ -71,6 +72,7 @@ offseek/
 ├── LICENSE                     # Licencia MIT
 └── hyperface_patterns/         # Patrones generados
     └── psychedelic_hyperface.jpg
+```
 
 ## Limitaciones Conocidas
 
