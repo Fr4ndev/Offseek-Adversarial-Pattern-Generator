@@ -111,11 +111,10 @@ Añadan evaluaciones empíricas
 Documenten casos de uso reales
 Aporten perspectivas legales o éticas
 
-## Licencia
-MIT License - Ver archivo LICENSE para detalles
 
 ### Nota: La privacidad es un derecho fundamental. Este proyecto no promueve actividades ilegales, sino que busca restaurar el equilibrio de poder entre individuos y sistemas de vigilancia masiva mediante herramientas técnicas accesibles.
-Autor
+
+
 Proyecto desarrollado como parte de la investigación en privacidad y seguridad biométrica.
-Contacto
+
 Para preguntas, sugerencias o colaboraciones, abre un issue en este repositorio.
