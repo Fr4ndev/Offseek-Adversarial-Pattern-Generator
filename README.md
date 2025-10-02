@@ -54,7 +54,7 @@ Aplica transformaciones para aumentar la complejidad visual:
 ## Requisitos
 ```bash
 pip install opencv-python numpy matplotlib pillow tqdm
-
+```
 
 ## Dataset necesario: LFW-deepfunneled (~173MB)
 
@@ -99,7 +99,7 @@ Sharif et al. (2016) - "Accessorize to a Crime: Real and Stealthy Attacks on Sta
 Wu et al. (2020) - "Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors"
 Komkov & Petiushko (2021) - "AdvHat: Real-world adversarial attack on ArcFace Face ID system"
 
-Contribuciones
+## Contribuciones
 Este es un proyecto de investigación abierto. Las contribuciones son bienvenidas mediante pull requests que:
 
 Mejoren la efectividad de los patrones
@@ -107,10 +107,10 @@ Añadan evaluaciones empíricas
 Documenten casos de uso reales
 Aporten perspectivas legales o éticas
 
-Licencia
+## Licencia
 MIT License - Ver archivo LICENSE para detalles
 
-Nota: La privacidad es un derecho fundamental. Este proyecto no promueve actividades ilegales, sino que busca restaurar el equilibrio de poder entre individuos y sistemas de vigilancia masiva mediante herramientas técnicas accesibles.
+### Nota: La privacidad es un derecho fundamental. Este proyecto no promueve actividades ilegales, sino que busca restaurar el equilibrio de poder entre individuos y sistemas de vigilancia masiva mediante herramientas técnicas accesibles.
 Autor
 Proyecto desarrollado como parte de la investigación en privacidad y seguridad biométrica.
 Contacto
